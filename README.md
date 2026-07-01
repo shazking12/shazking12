@@ -1,6 +1,6 @@
 # Hi, I'm Talha Shahzad 👋
 
-I am a BSc Cyber Security student at Manchester Metropolitan University, with previous Level 5 Software Engineering experience focused on Java.
+I am a BSc Cyber Security student at Manchester Metropolitan University, with previous Level 4 Software Engineering experience focused on Java.
 
 I am currently building my skills in cybersecurity, networking, Linux, digital forensics, databases, secure software development and technical documentation.
 
